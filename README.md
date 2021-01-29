@@ -1,49 +1,46 @@
-# Android TensorFlow Lite Machine Learning Example
-
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/blob/master/LICENSE)
-
-##  About Android TensorFlow Lite Machine Learning Example
-* This is an example project for integrating [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/) into Android application
-* This project include an example for object detection for an image taken from camera using TensorFlow Lite library.
-
-# [Read this article. It describes everything about TensorFlow Lite for Android.](https://letslearnai.com/2018/03/17/android-tensorflow-lite-machine-learning-example.html)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/pen_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/wallet_example.png" width="250">
+  <a href="" rel="noopener">
+ <img height=200px src="./SLR.jpg" alt="American Sign Language"></a>
 </p>
-<img src=https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/sample_combined.png >
-<br>
-<br>
 
-### Find this project useful ? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
+<h1 align="center">Sign Language Recognition App</h1>
 
-### Credits
-* The classifier example has been taken from Google TensorFlow example.
+<div align="center">
+  
+[![License: Apache 2](https://img.shields.io/badge/License-Apache-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
+<h4>This application can recognize the sign language alphabets and help the speech and hearing impaired to communicate with those who do not understand the sign language.</h4>
 
+</div>
+
+-----------------------------------------
+### Inspiration
+
+* In India out of the 121 Cr population, about 51 L people suffer from disability in hearing and about 11 L people suffer from disability in speech. Most of these individuals are eager to gain education and effectively contribute to the nation building. However, all of this potential is lost as they lack the means to do so. 
+
+* They do not even have the basic means of communicating with other people who do not know the Sign Language. As a result, they often experience many difficulties as a result of communication barriers among them and other individuals in the community. Some major areas that can be impacted by this are involvement in extracurricular activities and social relationships. 
+
+* To assist people in communicating with the speech and hearing impaired, we developed an application to identify hand gestures that represent the sign language alphabets in real-time. This application can be installed on a mobile phone and works without an internet connection as well, thus serving as an ubiquitous communication aid. 
+
+------------------------------------------
+### Features
+
+- `Detect object` :  On clicking 'Detect object', an image is captured which is sent as input to the model. After processing, the detected alphabet and the confidence of the detection is displayed.
+- `Toggle Camera` : To switch between front camera and back camera.
+
+------------------------------------------
+### Demo
+<p align="center">
+    <img src="./Demo.jpg">
+</p>
+
+------------------------------------------
+### Authors
+
+Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+Hardik Chovadiya - [willyhardik](https://github.com/willyhardik/)
+Amit Dave - []()
+
+------------------------------------------
 ### License
-```
-   Copyright (C) 2018 MINDORKS NEXTGEN PRIVATE LIMITED
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
-
-### Contributing to Android TensorFlow Lite Machine Learning Example
-Just make pull request. You are in!
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
