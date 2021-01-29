@@ -38,7 +38,9 @@
 ### Authors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+
 Hardik Chovadiya - [willyhardik](https://github.com/willyhardik/)
+
 Amit Dave - []()
 
 ------------------------------------------
