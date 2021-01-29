@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px src="./SLR.jpg" alt="American Sign Language"></a>
+ <img height=200px src="./ASL.jpg" alt="American Sign Language"></a>
 </p>
 
 <h1 align="center">Sign Language Recognition App</h1>
@@ -31,7 +31,7 @@
 ------------------------------------------
 ### Demo
 <p align="center">
-    <img src="./Demo.jpg">
+    <img src="./Demo.png">
 </p>
 
 ------------------------------------------
