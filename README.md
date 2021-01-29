@@ -41,7 +41,7 @@ Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
 Hardik Chovadiya - [willyhardik](https://github.com/willyhardik/)
 
-Amit Dave - []()
+Amit Dave - [amitdave1998](https://github.com/amitdave1998)
 
 ------------------------------------------
 ### License
