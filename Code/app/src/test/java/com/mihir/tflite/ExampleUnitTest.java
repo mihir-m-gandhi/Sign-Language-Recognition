@@ -1,4 +1,4 @@
-package com.amitshekhar.tflite;
+package com.mihir.tflite;
 
 import org.junit.Test;
 

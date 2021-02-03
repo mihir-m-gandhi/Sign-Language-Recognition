@@ -1,4 +1,4 @@
-package com.amitshekhar.tflite;
+package com.mihir.tflite;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
