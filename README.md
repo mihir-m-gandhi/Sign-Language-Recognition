@@ -35,6 +35,18 @@
 </p>
 
 ------------------------------------------
+### Installation
+* For Usage
+    * Download the `Sign_Language_Recognition.apk` and install it on your device. 
+    * Grant the required permission to the app.
+  
+* For Development
+    * Clone the repo
+    ```sh
+        $ git clone https://github.com/mihir-m-gandhi/Sign-Language-Recognition
+    ```
+
+------------------------------------------
 ### Authors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
