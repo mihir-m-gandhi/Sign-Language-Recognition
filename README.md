@@ -37,8 +37,8 @@
 ------------------------------------------
 ### Installation
 * For Usage
-    * Download the `Sign_Language_Recognition.apk` and install it on your device. 
-    * Grant the required permission to the app.
+    * Download the [`Sign_Language_Recognition.apk`](./Sign_Language_Recognition.apk) and install it on your device. 
+    * Grant the required permissions to the app.
   
 * For Development
     * Clone the repo
