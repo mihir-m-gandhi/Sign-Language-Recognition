@@ -45,6 +45,7 @@
     ```sh
         $ git clone https://github.com/mihir-m-gandhi/Sign-Language-Recognition
     ```
+    * Open `Code` folder in Android Studio.
 
 ------------------------------------------
 ### Authors
