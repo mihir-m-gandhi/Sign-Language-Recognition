@@ -48,7 +48,7 @@
     * Open `Code` folder in Android Studio.
 
 ------------------------------------------
-### Authors
+### Contributors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
