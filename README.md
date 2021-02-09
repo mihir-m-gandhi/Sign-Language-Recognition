@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=300px src="./ASL.jpg" alt="American Sign Language"></a>
+ <img height=300px src="./ASL.jpg" alt="American Sign Language">
 </p>
 
 <h1 align="center">Sign Language Recognition App</h1>
