@@ -8,7 +8,7 @@
   
 [![License: Apache 2](https://img.shields.io/badge/License-Apache-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-<h4>This application can recognize the sign language alphabets and help the speech and hearing impaired to communicate with those who do not understand the sign language.</h4>
+<h4>This application can recognize the sign language alphabets and help people who do not understand sign language to communicate with the speech and hearing impaired.</h4>
 
 </div>
 
