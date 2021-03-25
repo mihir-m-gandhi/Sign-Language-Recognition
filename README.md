@@ -19,7 +19,7 @@
 
 * They do not even have the basic means of communicating with other people who do not know the Sign Language. As a result, they often experience many difficulties as a result of communication barriers among them and other individuals in the community. Some major areas that can be impacted by this are involvement in extracurricular activities and social relationships. 
 
-* To assist people in communicating with the speech and hearing impaired, we developed an application to identify hand gestures that represent the sign language alphabets in real-time. This application can be installed on a mobile phone and works without an internet connection as well, thus serving as an ubiquitous communication aid. 
+* To assist people in communicating with the speech and hearing impaired, we developed an application to identify hand gestures that represent the sign language alphabets(A-H) in real-time. This application can be installed on a mobile phone and works without an internet connection as well, thus serving as an ubiquitous communication aid. 
 
 ------------------------------------------
 ### Features
